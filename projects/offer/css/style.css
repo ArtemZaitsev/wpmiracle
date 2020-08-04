@@ -1,0 +1,44 @@
+main {
+    background-color: rgb(218, 209, 209);
+    display: flex;
+}
+.categories {
+    display: flex;
+padding: 50px;
+    background-color: rgb(171, 240, 162);
+    margin: auto;
+    border: 3px solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.card {
+    width: 400px;
+    border: 3px solid black;
+    margin: 10px;
+}
+div > img {
+    width: 400px;
+    
+}
+
+.description {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.txt-center {
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    font-size: 30px;
+    font: bold;
+    text-align: center;
+}

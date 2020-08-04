@@ -1,0 +1,906 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    max-width: 2000px;
+    margin: 0 auto;
+    /* border: 1px solid purple; */
+    position: relative;
+}
+
+.bg-fix{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center center;
+}
+
+.nav-container {
+    position: relative;
+}
+
+nav {
+    height: 176px;
+    display: flex;
+    left: 0;
+    right: 0;
+    top: 0;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 0 auto;
+    /* background-color: rgb(47, 107, 107); */
+    align-items: center;
+    font-size: 16px;
+    /* width: 70%; */
+}
+
+.item {
+    color: white;
+    margin: 0 20px;
+    font-size: 22px;
+}
+
+.item >a:active {
+    cursor: wait;
+
+}
+
+.item > a {
+    text-decoration: none;
+    color: gray;
+}
+
+.item > a:visited {
+    font-weight: normal;
+    /* color: red; */
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    margin-left: 192px;
+}
+
+.logo {
+    
+    height: 100px;
+    width: 100px;
+    margin: 0 18px;
+}
+
+.logo-message {
+    
+    font-size: 40px;
+    font-family: "Myriad Pro";
+    line-height: 1.692;
+    -moz-transform: matrix( 4.35959048450037,0,0,4.35959048450037,0,0);
+    -ms-transform: matrix( 4.35959048450037,0,0,4.35959048450037,0,0);
+    margin: 0 6px;
+
+}
+
+
+  
+
+.blue-word {
+    color: #00bdec;
+}
+.pink-word
+{
+    color: #ff5384;
+}
+
+.for-button {
+    display: flex;
+    align-items: center;
+}
+.for-button > div {
+    margin: 0 auto;
+    padding: 10px;
+    /* background-color: gainsboro; */
+    font-size: 25px;
+}
+
+/* второй блок */
+
+.advantages{
+    /* display: flex; */
+    /* border: 2px solid blue; */
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.h3{
+    color: #639bbc;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 22px;
+    padding: 5px 0;
+}
+
+.h-description {
+    color: #a3a6a7;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.line {
+    /* border: 2px solid rgb(247, 16, 54); */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.half-line {
+    /* border: 2px solid rgb(24, 226, 17); */
+    display: flex;
+    width: 30%;
+
+}
+
+
+.headline {
+    color: #2d3542;
+    text-transform: uppercase;
+    padding: 10px 10px 10px 0;
+}
+
+.line-message {
+    padding: 0 10px;
+}
+.text {
+    line-height: 150%;
+    opacity: 0.7;
+    width: 400px;
+    padding: 0 0 20px 0;
+
+}
+
+.container-logo {
+    width: 70px;
+    /* border: 2px solid rgb(14, 231, 32); */
+}
+
+.logo-line {
+    height: 70px;
+}
+
+.first-item {
+    background-image: url('../img/map.png')
+}
+
+.second-item {
+    background-image: url('../img/picture.png')
+}
+
+/* 3 блок */
+
+/* .who-we-are {
+    display: flex;
+
+    position: relative;
+}
+
+.who-we-are > .photo {
+    position: absolute;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+    left: 0;
+
+}
+
+.description {
+    width: 50%;
+    margin-left: auto;  
+    background-color: orange;
+}
+
+.text-to-left  {
+    margin: 50px 50px 0 50px;
+}
+.text-to-left > div {
+    color: white;
+}
+.description > .headline {
+    text-transform: uppercase;
+}
+
+.we-are {
+    padding: 10px 0;
+}
+
+.button-about-us {
+    border: 2px solid rgb(185, 124, 9);
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    margin: 20px 0;
+    background-color: rgb(228, 152, 12) ;
+    color: white;
+} */
+
+.want-line{
+    background-color: #1ba1e0;
+    color: white;
+    display: flex;
+    box-sizing: border-box;
+    padding: 40px;
+    align-items: center;
+}
+
+.want-text {
+    font-size: 28px;
+    
+}
+
+.connect-button {
+    border: 2px solid white;
+    padding: 15px;
+    margin: 0 0 0 auto;
+    font-size: 24px;
+}
+
+
+
+/* ------------------------- 4 блок ------------------------------------- */
+
+.moscow-in-photos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.h3-line{
+    width:25%;
+    height: 3px;
+    background-color: #ffc34b;
+    opacity: 0.7;
+    margin: 10px auto;
+}
+
+.photos-line {  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.photos-line >div >img {
+    height: 223px;
+}
+
+.photos-line > .one {
+    background-image: url(/projects/multi-page/img/1.jpg);
+}
+
+.photos-line > .two {
+    background-image: url(/projects/multi-page/img/2.jpg);
+}
+
+.photos-line > .three {
+    background-image: url(/projects/multi-page/img/3.jpg);
+}
+
+.photos-line > .four {
+    background-image: url(/projects/multi-page/img/4.jpg);
+}
+
+.photos-line > .five {
+    background-image: url(/projects/multi-page/img/5.jpg);
+}
+.photos-line > .six {
+    background-image: url(/projects/multi-page/img/6.jpg);
+}
+
+.photos-line > .seven {
+    background-image: url(/projects/multi-page/img/7.jpg);
+}
+
+.photos-line > .eight {
+    background-image: url(/projects/multi-page/img/8.jpg);
+}
+
+
+
+
+.facts-line {
+    background-color: #1ba1e0;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+
+.white-line {
+    height: 3px;
+    width: 50px;
+    background-color: white;
+    margin: 0 auto;
+    
+}
+
+.fact-item {
+
+    text-align: center;
+}
+
+.number {
+    font-size: 40px;
+}
+
+.fact-text {
+    font-size: 28px;
+}
+
+
+
+
+.news-line {
+   display: flex; 
+   justify-content: center;
+   box-sizing: border-box;
+}
+
+.news-container {
+    position: relative;
+    width: 33%;
+    display: flex;
+}
+
+.news-container > .photo {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    bottom: 0;
+    left: 0;
+
+}
+
+.desription {
+    margin: 0 0 0 auto;
+    background-color: #f8f8f8;
+    width: 50%;
+}
+
+.detail {
+    color: #1ba1e0;
+    text-transform: uppercase;
+}
+
+
+/* 5 блок */
+
+/* .reviews {
+    border: 2px solid black;
+} */
+
+.reviews-columns {
+    /* border: 2px solid blue; */
+    padding: 30px;
+}
+
+.review-columns-flex {
+    display: flex;
+    /* border: 5px solid rgb(255, 47, 255);  */
+    justify-content: space-around;
+
+}
+
+/* .review {
+    border: 2px solid red;    
+} */
+
+.review-text {
+    background-color: #ecf0ef;
+    width: 400px;
+    padding: 10px;
+    opacity: 0.7;
+}
+
+.review-human {
+    display: flex;
+    margin-top: 10px;
+}
+.review-photo {
+    width: 70px;
+    height: 70px;
+}
+
+.review-human-name {
+    color: black;
+    /* border: 2px solid blue; */
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+/* .review-photo-second {
+    width: 70px;
+    height: 70px;
+    background-image: url(/projects/multi-page/img/test1.jpg);
+} */
+
+.review-controlling {
+    padding: 5px;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.review-controlling-item {
+    width: 15px;
+    height: 15px;
+    background-color: #ecf0ef;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+
+
+
+.h-title {
+    color: #1ba1e0;
+    font-size: 26px;
+    margin-top: 30px;
+}
+
+
+
+.red-line {
+    width: 100px;
+    height: 3px;
+    background-color: #fe5e8e;
+    margin: 20px 0;
+}
+
+
+.last-examples {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.example > a {
+    width: 25%;
+    height: 300px;
+
+}
+
+
+
+/* 6 блок */
+
+.write-us {
+    height: 350px;
+    background-color: #ecf0ef;
+}
+
+
+
+.forms-columns{
+    /* border: 2px dotted black; */
+    display: flex;
+    justify-content: space-around;
+    display: block;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.forms-columns-first {
+    width: 50%;     
+}   
+.forms-columns-second {
+    width: 50%;  
+}
+
+form {
+    display: flex;
+}
+
+form > div {
+    margin: 10px;
+}
+
+.box-small{
+    padding: 10px;
+    box-sizing: border-box;
+    max-width: 100%;
+    min-width: 100%;
+    border: 2px solid #1ba1e0;
+    
+}
+
+input {
+    margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.forms-columns input:focus {
+    outline: 2px solid red;
+}
+
+.forms-columns textarea:focus {
+    outline: 2px solid red;
+}
+
+textarea{
+    max-height: 100%;
+    min-height: 95%;
+    resize: none;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.forms-columns-first button {
+    background-color: #1ba1e0;
+    border: 2px solid #1ba1e0;
+    color: white;
+    margin-top: 10px;
+    text-transform: uppercase;
+
+}
+
+
+.forms-columns-first button:hover {
+    cursor: pointer;
+}
+
+.forms-columns-first button:active {
+    cursor: wait;
+    outline: 2px solid red;
+}
+
+
+/* 7 блок */
+
+.footer-up{
+    /* height: 300px; */
+    background-color: #161616;
+    color: white;
+    padding: 20px 0;
+
+}
+
+.footer-up-headline {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+
+.headline-footer-up-items{
+    font-size: 26px;
+    /* border: 2px solid white; */
+    color: #1ba1e0;
+}
+
+.footer-up-description {
+    /* border: 2px solid rgb(221, 64, 208); */
+    display: flex;
+
+}
+
+.last-news-column {
+    width: 33%;
+    /* border: 2px solid yellow; */
+    margin-top: 15px;
+
+}
+
+.description-column {
+    width: 33%;
+    /* border: 2px solid yellow; */
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.footer-text-description {
+    /* border: 2px solid red; */
+    width: 80%;
+    font-size: 14px;
+}
+
+.adress-logo-footer {
+    width: 30px;
+    height: 30px;
+    background-image: url(/projects/oop-lp/img/placeholder.png);
+}
+
+.email-logo-footer {
+    width: 30px;
+    height: 30px; 
+    background-image: url(/projects/oop-lp/img/mail.png);
+}
+
+.tel-logo-footer {
+    width: 30px;
+    height: 30px;
+    background-image: url(/projects/oop-lp/img/telephone.png);
+}
+
+.adress {
+    display: flex;
+    margin: 10px 0;
+}
+
+.email {
+    display: flex;
+    margin: 10px 0;
+}
+
+.tel {
+    display: flex;
+    margin: 10px 0;
+}
+
+.adress-text {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.email-text {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.tel-text  {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+    
+.down-text {
+    padding: 10px 0;
+}
+
+.date {
+    margin: 0 0 10px 0;
+    color: rgb(0, 195, 255);
+    /* border: 2px solid yellow; */
+}
+
+
+
+.footer-down-items {
+    height: 70px;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 14px;
+}
+
+.one-third-footer-down {
+    width: 33%;
+    /* border: 2px dotted yellow; */
+    text-align: center;
+}
+
+.social-network{
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
+.vk {
+    background-image: url(/projects/multi-page/img/vk.png);
+}
+
+.facebook {
+    background-image: url(/projects/multi-page/img/facebook.png);
+    background-color: white;
+}
+
+.insta {
+    background-image: url(/projects/multi-page/img/instagram.png);
+    background-color: white;
+}
+
+
+/* страница контакты */
+.contact-message {
+    opacity: 0.7;
+    box-sizing: border-box;
+    padding: 20px 0;
+    font-size: 20px;
+}
+.line-staff {
+    display: flex;
+    justify-content: space-between;
+}
+
+.staff-container {
+    display: flex;
+    position:relative;
+    width: 50%;
+    margin: 10px 0;
+}
+
+.foto-first {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 50%;
+}
+
+.info-container{
+    background-color: #ffc34b;
+    border-left: 8px solid #639bbc;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 50%;
+    margin: 0 0 0 auto;
+
+}
+
+.staff-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.staff-position {
+    text-transform: lowercase;
+    margin: 15px 0;
+    font-size: 20px;
+}
+
+.staff-why-write{
+    /* text-transform: lowercase; */
+    font-size: 18px;
+}
+
+.staff-mail {
+    text-transform: lowercase;
+    margin: 15px 0;
+    font-size: 20px;
+}
+
+.coordinates {
+    display: flex;
+    /* border: 2px dotted yellow; */
+    border-bottom: 5px solid #ffc34b;
+}
+
+.coordinates > .contacts {
+    width: 50%;
+    /* border: 1px solid green; */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.coordinates > .forms-columns {
+    width: 50%;
+    /* border: 1px solid green; */
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+.flex-left {
+    display: flex;
+    justify-content: left;
+}
+
+.adress-logo {
+    width: 60px;
+    height: 60px;
+    margin: 0 20px 10px 0;
+    background-image: url(/projects/multi-page/img/placeholder.png);
+}
+
+.email > .email-logo {
+    width: 60px;
+    height: 60px;
+    margin: 0 20px 10px 0;
+    background-image: url(/projects/multi-page/img/mail.png);
+}
+
+.tel > .tel-logo {
+    width: 60px;
+    height: 60px;
+    margin: 0 20px 10px 0;
+    background-image: url(/projects/multi-page/img/telephone.png);
+}
+
+.px26 {
+    font-size: 26px;
+}
+
+#map {
+    height: 700px;
+    width: 100%;
+  }
+
+  /* страница путешествия */
+
+
+.more-margin{
+    margin: 30px;
+}
+
+.flex-center  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trips-container{
+    position: relative;
+}
+
+.trips-container:nth-child(2n+1) >div:first-child {
+    position: absolute;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+    left: 0;
+
+}
+.trips-container:nth-child(2n) >div:first-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 50%;
+
+}
+
+.trips-container:nth-child(2n+1) >div:last-child {
+    width: 50%;
+    background-color: #ffc34b;
+    box-sizing: border-box;
+    padding: 40px 40px 0 40px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 0 auto;
+}
+
+.trips-container:nth-child(2n) >div:last-child {
+    width: 50%;
+    background-color: #ffc34b;
+    box-sizing: border-box;
+    padding: 40px 40px 0 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.trips-offer >.headline {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+.trips-offer >.text-offer {
+    color: white;
+}
+

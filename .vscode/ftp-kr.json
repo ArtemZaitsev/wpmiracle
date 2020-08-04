@@ -1,0 +1,16 @@
+{
+    "host": "37.140.192.135",
+    "username": "u0741356",
+    "password": "4JSu_zto",
+    "remotePath": "/www/wpmiracle.ru",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

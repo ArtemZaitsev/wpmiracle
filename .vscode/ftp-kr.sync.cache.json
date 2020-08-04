@@ -1,0 +1,1476 @@
+{
+  "ftp://37.140.192.135@u0741356": {
+    "bin-tmp": {},
+    "logs": {},
+    "php-bin": {},
+    "php-bin-php56": {},
+    "www": {
+      "index.html": {
+        "type": "-",
+        "size": 2248,
+        "lmtime": 0,
+        "modified": false
+      },
+      "love-cake.ru": {},
+      "ramiko.ru": {},
+      "wpmiracle.ru": {
+        ".vscode": {
+          "ftp-kr.json": {
+            "type": "-",
+            "size": 331,
+            "lmtime": 0,
+            "modified": false
+          },
+          "ftp-kr.sync.cache.json": {
+            "type": "-",
+            "size": 33439,
+            "lmtime": 0,
+            "modified": false
+          }
+        },
+        "adminer.php": {
+          "type": "-",
+          "size": 483403,
+          "lmtime": 1564045797090,
+          "modified": false
+        },
+        "css": {
+          "style.css": {
+            "type": "-",
+            "size": 1870,
+            "lmtime": 1566387191657,
+            "modified": false
+          }
+        },
+        "global_pass.php": {
+          "type": "-",
+          "size": 532,
+          "lmtime": 1565619512126,
+          "modified": false
+        },
+        "img": {
+          "file-sharing.jpg": {
+            "type": "-",
+            "size": 44475,
+            "lmtime": 0,
+            "modified": false
+          },
+          "first-LP.png": {
+            "type": "-",
+            "size": 307031,
+            "lmtime": 0,
+            "modified": false
+          },
+          "img-back.jpg": {
+            "type": "-",
+            "size": 274028,
+            "lmtime": 0,
+            "modified": false
+          },
+          "multipage-website.png": {
+            "type": "-",
+            "size": 900091,
+            "lmtime": 0,
+            "modified": false
+          },
+          "offer.jpg": {
+            "type": "-",
+            "size": 69485,
+            "lmtime": 0,
+            "modified": false
+          },
+          "online-store.jpeg": {
+            "type": "-",
+            "size": 10255,
+            "lmtime": 0,
+            "modified": false
+          },
+          "responsive-website.png": {
+            "type": "-",
+            "size": 257875,
+            "lmtime": 0,
+            "modified": false
+          },
+          "bot.jpeg.crdownload": {
+            "type": "-",
+            "size": 59185,
+            "lmtime": 1563885013471,
+            "modified": false
+          },
+          "bot.jpeg": {
+            "type": "-",
+            "size": 59185,
+            "lmtime": 1563885040122,
+            "modified": false
+          }
+        },
+        "index.php": {
+          "type": "-",
+          "size": 2545,
+          "lmtime": 1566387399534,
+          "modified": false
+        },
+        "js": {},
+        "projects": {
+          "bot": {
+            "ArtemZaitsev_bot.php": {
+              "type": "-",
+              "size": 649,
+              "lmtime": 1564579719751,
+              "modified": false
+            },
+            "artemzaitsev_bot.php": {
+              "type": "-",
+              "size": 649,
+              "lmtime": 1564579745587,
+              "modified": false
+            },
+            "ds.php": {
+              "type": "-",
+              "size": 51,
+              "lmtime": 1564579955228,
+              "modified": false
+            },
+            "telegram_bot_template.php": {
+              "type": "-",
+              "size": 649,
+              "lmtime": 1564577234474,
+              "modified": false
+            },
+            "artemzaitsevbot.php": {
+              "type": "-",
+              "size": 649,
+              "lmtime": 1564580133777,
+              "modified": false
+            }
+          },
+          "first-lp": {
+            "about.html": {
+              "type": "-",
+              "size": 3545,
+              "lmtime": 0,
+              "modified": false
+            },
+            "about.php": {
+              "type": "-",
+              "size": 3615,
+              "lmtime": 1562684955867,
+              "modified": false
+            },
+            "advantages.html": {
+              "type": "-",
+              "size": 3560,
+              "lmtime": 0,
+              "modified": false
+            },
+            "advantages.php": {
+              "type": "-",
+              "size": 3630,
+              "lmtime": 1562684950079,
+              "modified": false
+            },
+            "catalog.html": {
+              "type": "-",
+              "size": 3550,
+              "lmtime": 0,
+              "modified": false
+            },
+            "catalog.php": {
+              "type": "-",
+              "size": 3620,
+              "lmtime": 1562684920698,
+              "modified": false
+            },
+            "css": {
+              "styles.css": {
+                "type": "-",
+                "size": 8285,
+                "lmtime": 1562929718504,
+                "modified": false
+              }
+            },
+            "img": {},
+            "index.html": {
+              "type": "-",
+              "size": 12980,
+              "lmtime": 0,
+              "modified": false
+            },
+            "index.php": {
+              "type": "-",
+              "size": 13258,
+              "lmtime": 1562932263415,
+              "modified": false
+            },
+            "js": {},
+            "otpravleno.php": {
+              "type": "-",
+              "size": 13661,
+              "lmtime": 1562930355348,
+              "modified": false
+            },
+            "price.html": {
+              "type": "-",
+              "size": 3536,
+              "lmtime": 0,
+              "modified": false
+            },
+            "price.php": {
+              "type": "-",
+              "size": 3606,
+              "lmtime": 1562684961958,
+              "modified": false
+            },
+            "work.php": {
+              "type": "-",
+              "size": 869,
+              "lmtime": 1562932326047,
+              "modified": false
+            }
+          },
+          "im": {
+            ".git": {},
+            ".gitignore": {
+              "type": "-",
+              "size": 186,
+              "lmtime": 1565618983026,
+              "modified": true
+            },
+            ".idea": {
+              "deployment.xml": {
+                "type": "-",
+                "size": 449,
+                "lmtime": 1565614971447,
+                "modified": false
+              },
+              "im.iml": {
+                "type": "-",
+                "size": 288,
+                "lmtime": 1565439673326,
+                "modified": false
+              },
+              "misc.xml": {
+                "type": "-",
+                "size": 179,
+                "lmtime": 1565439673475,
+                "modified": false
+              },
+              "modules.xml": {
+                "type": "-",
+                "size": 263,
+                "lmtime": 1565439673592,
+                "modified": false
+              },
+              "vcs.xml": {
+                "type": "-",
+                "size": 185,
+                "lmtime": 1565439673540,
+                "modified": false
+              },
+              "webServers.xml": {
+                "type": "-",
+                "size": 600,
+                "lmtime": 1565614587575,
+                "modified": false
+              },
+              "workspace.xml": {
+                "type": "-",
+                "size": 10439,
+                "lmtime": 1565619283247,
+                "modified": false
+              }
+            },
+            "README.md": {
+              "type": "-",
+              "size": 71,
+              "lmtime": 1565439652356,
+              "modified": false
+            },
+            "admin": {
+              "index.html": {
+                "type": "-",
+                "size": 8,
+                "lmtime": 0,
+                "modified": false
+              },
+              "index.php": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1565439652358,
+                "modified": false
+              }
+            },
+            "auth": {
+              "index.html": {
+                "type": "-",
+                "size": 8,
+                "lmtime": 0,
+                "modified": false
+              },
+              "index.php": {
+                "type": "-",
+                "size": 0,
+                "lmtime": 1565439652366,
+                "modified": false
+              },
+              "registration": {},
+              "restore": {},
+              "result": {}
+            },
+            "basket.php": {
+              "type": "-",
+              "size": 8485,
+              "lmtime": 1565877087712,
+              "modified": true
+            },
+            "card.php": {
+              "type": "-",
+              "size": 2268,
+              "lmtime": 1565877076613,
+              "modified": true
+            },
+            "catalog.php": {
+              "type": "-",
+              "size": 6043,
+              "lmtime": 1566386960771,
+              "modified": false
+            },
+            "components": {
+              "footer.php": {
+                "type": "-",
+                "size": 2240,
+                "lmtime": 1565439652375,
+                "modified": true
+              },
+              "header.php": {
+                "type": "-",
+                "size": 2941,
+                "lmtime": 1566386054874,
+                "modified": false
+              }
+            },
+            "css": {
+              "catalog.css": {
+                "type": "-",
+                "size": 5059,
+                "lmtime": 1565200148422,
+                "modified": false
+              },
+              "slider.css": {
+                "type": "-",
+                "size": 2356,
+                "lmtime": 1564740031957,
+                "modified": false
+              },
+              "style.css": {
+                "type": "-",
+                "size": 10011,
+                "lmtime": 1565623549026,
+                "modified": false
+              }
+            },
+            "errors.php": {
+              "type": "-",
+              "size": 111,
+              "lmtime": 1565439652381,
+              "modified": true
+            },
+            "fonts": {
+              "KoorkinItalic": {
+                "KoorkinItalic.eot": {
+                  "type": "-",
+                  "size": 187840,
+                  "lmtime": 1565439652385,
+                  "modified": false
+                },
+                "KoorkinItalic.ttf": {
+                  "type": "-",
+                  "size": 187632,
+                  "lmtime": 1565439652388,
+                  "modified": false
+                },
+                "KoorkinItalic.woff": {
+                  "type": "-",
+                  "size": 86300,
+                  "lmtime": 1565439652391,
+                  "modified": false
+                }
+              },
+              "index.html": {
+                "type": "-",
+                "size": 8,
+                "lmtime": 0,
+                "modified": false
+              }
+            },
+            "global_pass.php": {
+              "type": "-",
+              "size": 791,
+              "lmtime": 1565878147609,
+              "modified": false
+            },
+            "img": {
+              "01.jpg": {
+                "type": "-",
+                "size": 224153,
+                "lmtime": 1565439652394,
+                "modified": false
+              },
+              "02.jpg": {
+                "type": "-",
+                "size": 449877,
+                "lmtime": 1565439652397,
+                "modified": false
+              },
+              "03.jpg": {
+                "type": "-",
+                "size": 157032,
+                "lmtime": 1565439652399,
+                "modified": false
+              },
+              "04.jpg": {
+                "type": "-",
+                "size": 219207,
+                "lmtime": 1565439652403,
+                "modified": false
+              },
+              "05.jpg": {
+                "type": "-",
+                "size": 131298,
+                "lmtime": 1565439652405,
+                "modified": false
+              },
+              "06.jpg": {
+                "type": "-",
+                "size": 370982,
+                "lmtime": 1565439652408,
+                "modified": false
+              },
+              "1.jpg": {
+                "type": "-",
+                "size": 113518,
+                "lmtime": 1565439652410,
+                "modified": false
+              },
+              "2.jpg": {
+                "type": "-",
+                "size": 40514,
+                "lmtime": 1565439652412,
+                "modified": false
+              },
+              "3.jpg": {
+                "type": "-",
+                "size": 59389,
+                "lmtime": 1565439652414,
+                "modified": false
+              },
+              "4.jpg": {
+                "type": "-",
+                "size": 88955,
+                "lmtime": 1565439652416,
+                "modified": false
+              },
+              "5.jpg": {
+                "type": "-",
+                "size": 44981,
+                "lmtime": 1565439652419,
+                "modified": false
+              },
+              "6.jpg": {
+                "type": "-",
+                "size": 94400,
+                "lmtime": 1565439652420,
+                "modified": false
+              },
+              "basket-line.png": {
+                "type": "-",
+                "size": 1153,
+                "lmtime": 1565611747577,
+                "modified": false
+              },
+              "catalog": {
+                "1.jpg": {
+                  "type": "-",
+                  "size": 229884,
+                  "lmtime": 1565439652424,
+                  "modified": false
+                },
+                "10.jpg": {
+                  "type": "-",
+                  "size": 27763,
+                  "lmtime": 1565439652425,
+                  "modified": false
+                },
+                "11.jpg": {
+                  "type": "-",
+                  "size": 204975,
+                  "lmtime": 1565439652429,
+                  "modified": false
+                },
+                "12.jpg": {
+                  "type": "-",
+                  "size": 31119,
+                  "lmtime": 1565439652430,
+                  "modified": false
+                },
+                "2.jpg": {
+                  "type": "-",
+                  "size": 71513,
+                  "lmtime": 1565439652432,
+                  "modified": false
+                },
+                "3.png": {
+                  "type": "-",
+                  "size": 867644,
+                  "lmtime": 1565439652442,
+                  "modified": false
+                },
+                "4.jpg": {
+                  "type": "-",
+                  "size": 197973,
+                  "lmtime": 1565439652445,
+                  "modified": false
+                },
+                "5.jpg": {
+                  "type": "-",
+                  "size": 62741,
+                  "lmtime": 1565439652448,
+                  "modified": false
+                },
+                "6.jpg": {
+                  "type": "-",
+                  "size": 55747,
+                  "lmtime": 1565439652450,
+                  "modified": false
+                },
+                "7.jpg": {
+                  "type": "-",
+                  "size": 29099,
+                  "lmtime": 1565439652451,
+                  "modified": false
+                },
+                "8.jpg": {
+                  "type": "-",
+                  "size": 138343,
+                  "lmtime": 1565439652453,
+                  "modified": false
+                },
+                "9.jpg": {
+                  "type": "-",
+                  "size": 26614,
+                  "lmtime": 1565439652454,
+                  "modified": false
+                }
+              },
+              "detail.jpg": {
+                "type": "-",
+                "size": 126323,
+                "lmtime": 1565180741779,
+                "modified": false
+              },
+              "good_1.jpg": {
+                "type": "-",
+                "size": 60142,
+                "lmtime": 1565177878061,
+                "modified": false
+              },
+              "icons": {
+                "account.png": {
+                  "type": "-",
+                  "size": 1716,
+                  "lmtime": 1565439652456,
+                  "modified": false
+                },
+                "arrow.png": {
+                  "type": "-",
+                  "size": 338,
+                  "lmtime": 1565439652458,
+                  "modified": false
+                },
+                "attention-sign-outline.png": {
+                  "type": "-",
+                  "size": 13491,
+                  "lmtime": 1565439652459,
+                  "modified": false
+                },
+                "basket.png": {
+                  "type": "-",
+                  "size": 1704,
+                  "lmtime": 1565439652460,
+                  "modified": false
+                },
+                "facebook.png": {
+                  "type": "-",
+                  "size": 194,
+                  "lmtime": 1565439652461,
+                  "modified": false
+                },
+                "instagram.png": {
+                  "type": "-",
+                  "size": 2314,
+                  "lmtime": 1565439652464,
+                  "modified": false
+                },
+                "logo.jpg": {
+                  "type": "-",
+                  "size": 2141,
+                  "lmtime": 1565439652465,
+                  "modified": false
+                },
+                "show.png": {
+                  "type": "-",
+                  "size": 291,
+                  "lmtime": 1565611747577,
+                  "modified": false
+                },
+                "twitter.png": {
+                  "type": "-",
+                  "size": 1900,
+                  "lmtime": 1565439652466,
+                  "modified": false
+                }
+              },
+              "index.html": {
+                "type": "-",
+                "size": 8,
+                "lmtime": 0,
+                "modified": false
+              },
+              "show.jpg": {
+                "type": "-",
+                "size": 24350,
+                "lmtime": 1565176281550,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 5792,
+              "lmtime": 1565877028700,
+              "modified": true
+            },
+            "js": {
+              "jquery-3.4.1.min.js": {
+                "type": "-",
+                "size": 88147,
+                "lmtime": 1565439652470,
+                "modified": false
+              },
+              "main.js": {
+                "type": "-",
+                "size": 2,
+                "lmtime": 1564740168757,
+                "modified": false
+              },
+              "script.js": {
+                "type": "-",
+                "size": 2855,
+                "lmtime": 1564740172450,
+                "modified": false
+              },
+              "scripts.js": {
+                "type": "-",
+                "size": 2506,
+                "lmtime": 1565439652472,
+                "modified": false
+              },
+              "slider.js": {
+                "type": "-",
+                "size": 16326,
+                "lmtime": 1564740155185,
+                "modified": false
+              }
+            },
+            "system": {
+              "classes": {
+                "Connect.php": {
+                  "type": "-",
+                  "size": 431,
+                  "lmtime": 1565439652474,
+                  "modified": false
+                },
+                "Leads.php": {
+                  "type": "-",
+                  "size": 93,
+                  "lmtime": 1565439652476,
+                  "modified": false
+                },
+                "Member.php": {
+                  "type": "-",
+                  "size": 2920,
+                  "lmtime": 1565439652477,
+                  "modified": false
+                },
+                "News.php": {
+                  "type": "-",
+                  "size": 91,
+                  "lmtime": 1565439652478,
+                  "modified": false
+                },
+                "Pages.php": {
+                  "type": "-",
+                  "size": 93,
+                  "lmtime": 1565439652480,
+                  "modified": false
+                },
+                "Post.php": {
+                  "type": "-",
+                  "size": 773,
+                  "lmtime": 1565439652481,
+                  "modified": false
+                },
+                "Reviews.php": {
+                  "type": "-",
+                  "size": 97,
+                  "lmtime": 1565439652483,
+                  "modified": false
+                },
+                "Services.php": {
+                  "type": "-",
+                  "size": 98,
+                  "lmtime": 1565439652484,
+                  "modified": false
+                },
+                "Singleton.php": {
+                  "type": "-",
+                  "size": 1280,
+                  "lmtime": 1565439652486,
+                  "modified": false
+                },
+                "Table.php": {
+                  "type": "-",
+                  "size": 741,
+                  "lmtime": 1565439652491,
+                  "modified": false
+                },
+                "Unit.php": {
+                  "type": "-",
+                  "size": 5116,
+                  "lmtime": 1565439652493,
+                  "modified": false
+                },
+                "UnitActions.php": {
+                  "type": "-",
+                  "size": 227,
+                  "lmtime": 1565439652498,
+                  "modified": false
+                },
+                "autoload.php": {
+                  "type": "-",
+                  "size": 167,
+                  "lmtime": 1565439652500,
+                  "modified": false
+                }
+              },
+              "controllers": {
+                "basket": {
+                  "create.php": {
+                    "type": "-",
+                    "size": 222,
+                    "lmtime": 1565439652506,
+                    "modified": false
+                  },
+                  "delete.php": {
+                    "type": "-",
+                    "size": 652,
+                    "lmtime": 1565611747577,
+                    "modified": false
+                  }
+                },
+                "posts": {
+                  "create.php": {
+                    "type": "-",
+                    "size": 2857,
+                    "lmtime": 1565439652511,
+                    "modified": false
+                  },
+                  "delete.php": {
+                    "type": "-",
+                    "size": 527,
+                    "lmtime": 1565439652513,
+                    "modified": false
+                  }
+                },
+                "orders": {
+                  "create.php": {
+                    "type": "-",
+                    "size": 0,
+                    "lmtime": 1565611747577,
+                    "modified": false
+                  }
+                },
+                "subscriptions": {
+                  "create.php": {
+                    "type": "-",
+                    "size": 0,
+                    "lmtime": 1565439652514,
+                    "modified": false
+                  }
+                }
+              }
+            }
+          },
+          "multi-page": {
+            "components": {
+              "footer.php": {
+                "type": "-",
+                "size": 4718,
+                "lmtime": 1563796360197,
+                "modified": true
+              },
+              "header.php": {
+                "type": "-",
+                "size": 2513,
+                "lmtime": 1565008687205,
+                "modified": false
+              }
+            },
+            "contacts.jpg": {
+              "type": "-",
+              "size": 678059,
+              "lmtime": 0,
+              "modified": false
+            },
+            "contacts.php": {
+              "type": "-",
+              "size": 6461,
+              "lmtime": 1563797207846,
+              "modified": true
+            },
+            "css": {
+              "catalog.css": {
+                "type": "-",
+                "size": 169,
+                "lmtime": 1565174448044,
+                "modified": false
+              },
+              "slider.css": {
+                "type": "-",
+                "size": 2356,
+                "lmtime": 1563777573346,
+                "modified": false
+              },
+              "style.css": {
+                "type": "-",
+                "size": 13001,
+                "lmtime": 1565077212847,
+                "modified": false
+              }
+            },
+            "form.php": {
+              "type": "-",
+              "size": 850,
+              "lmtime": 1562943365342,
+              "modified": true
+            },
+            "img": {
+              "1.jpg": {
+                "type": "-",
+                "size": 98605,
+                "lmtime": 0,
+                "modified": false
+              },
+              "2.jpg": {
+                "type": "-",
+                "size": 93087,
+                "lmtime": 0,
+                "modified": false
+              },
+              "2_02.jpg": {
+                "type": "-",
+                "size": 109381,
+                "lmtime": 0,
+                "modified": false
+              },
+              "2_04.jpg": {
+                "type": "-",
+                "size": 112846,
+                "lmtime": 0,
+                "modified": false
+              },
+              "3.jpg": {
+                "type": "-",
+                "size": 78444,
+                "lmtime": 0,
+                "modified": false
+              },
+              "3_01.jpg": {
+                "type": "-",
+                "size": 136977,
+                "lmtime": 0,
+                "modified": false
+              },
+              "3_03.jpg": {
+                "type": "-",
+                "size": 60232,
+                "lmtime": 0,
+                "modified": false
+              },
+              "4.jpg": {
+                "type": "-",
+                "size": 111192,
+                "lmtime": 0,
+                "modified": false
+              },
+              "5.jpg": {
+                "type": "-",
+                "size": 76811,
+                "lmtime": 0,
+                "modified": false
+              },
+              "6.jpg": {
+                "type": "-",
+                "size": 101561,
+                "lmtime": 0,
+                "modified": false
+              },
+              "7.jpg": {
+                "type": "-",
+                "size": 63812,
+                "lmtime": 0,
+                "modified": false
+              },
+              "8.jpg": {
+                "type": "-",
+                "size": 73033,
+                "lmtime": 0,
+                "modified": false
+              },
+              "arrow.png": {
+                "type": "-",
+                "size": 1815,
+                "lmtime": 1563014481000,
+                "modified": false
+              },
+              "compass.png": {
+                "type": "-",
+                "size": 28153,
+                "lmtime": 0,
+                "modified": false
+              },
+              "discussion.png": {
+                "type": "-",
+                "size": 12503,
+                "lmtime": 0,
+                "modified": false
+              },
+              "facebook.png": {
+                "type": "-",
+                "size": 2580,
+                "lmtime": 0,
+                "modified": false
+              },
+              "for_slider_2.jpg": {
+                "type": "-",
+                "size": 537545,
+                "lmtime": 0,
+                "modified": false
+              },
+              "for_slider_3.webp": {
+                "type": "-",
+                "size": 93866,
+                "lmtime": 0,
+                "modified": false
+              },
+              "for_slider_4.jpg": {
+                "type": "-",
+                "size": 83537,
+                "lmtime": 0,
+                "modified": false
+              },
+              "for_slider_5.webp": {
+                "type": "-",
+                "size": 101990,
+                "lmtime": 0,
+                "modified": false
+              },
+              "group.jpg": {
+                "type": "-",
+                "size": 150197,
+                "lmtime": 0,
+                "modified": false
+              },
+              "instagram.png": {
+                "type": "-",
+                "size": 6886,
+                "lmtime": 0,
+                "modified": false
+              },
+              "mail.png": {
+                "type": "-",
+                "size": 13442,
+                "lmtime": 0,
+                "modified": false
+              },
+              "man.jpg": {
+                "type": "-",
+                "size": 29333,
+                "lmtime": 0,
+                "modified": false
+              },
+              "map.png": {
+                "type": "-",
+                "size": 22720,
+                "lmtime": 0,
+                "modified": false
+              },
+              "metka.png": {
+                "type": "-",
+                "size": 3362,
+                "lmtime": 0,
+                "modified": false
+              },
+              "picture.png": {
+                "type": "-",
+                "size": 24520,
+                "lmtime": 0,
+                "modified": false
+              },
+              "placeholder.png": {
+                "type": "-",
+                "size": 14866,
+                "lmtime": 0,
+                "modified": false
+              },
+              "souvenir.png": {
+                "type": "-",
+                "size": 12032,
+                "lmtime": 0,
+                "modified": false
+              },
+              "spasskaya-tower.png": {
+                "type": "-",
+                "size": 22039,
+                "lmtime": 0,
+                "modified": false
+              },
+              "sun.png": {
+                "type": "-",
+                "size": 19810,
+                "lmtime": 0,
+                "modified": false
+              },
+              "telephone.png": {
+                "type": "-",
+                "size": 5812,
+                "lmtime": 0,
+                "modified": false
+              },
+              "test1.jpg": {
+                "type": "-",
+                "size": 15326,
+                "lmtime": 0,
+                "modified": false
+              },
+              "test2.jpg": {
+                "type": "-",
+                "size": 9104,
+                "lmtime": 0,
+                "modified": false
+              },
+              "test3.jpeg": {
+                "type": "-",
+                "size": 5448,
+                "lmtime": 1563778067494,
+                "modified": false
+              },
+              "test3.jpeg.crdownload": {
+                "type": "-",
+                "size": 5448,
+                "lmtime": 1563778002943,
+                "modified": false
+              },
+              "top.jpg": {
+                "type": "-",
+                "size": 312045,
+                "lmtime": 0,
+                "modified": false
+              },
+              "top1.jpg": {
+                "type": "-",
+                "size": 358306,
+                "lmtime": 0,
+                "modified": false
+              },
+              "top2.jpg": {
+                "type": "-",
+                "size": 166094,
+                "lmtime": 0,
+                "modified": false
+              },
+              "vk.png": {
+                "type": "-",
+                "size": 5251,
+                "lmtime": 0,
+                "modified": false
+              },
+              "woman.jpg": {
+                "type": "-",
+                "size": 33597,
+                "lmtime": 0,
+                "modified": false
+              },
+              "test4.jpeg.crdownload": {
+                "type": "-",
+                "size": 7744,
+                "lmtime": 1563778218084,
+                "modified": false
+              },
+              "test4.jpeg": {
+                "type": "-",
+                "size": 7744,
+                "lmtime": 1563778225188,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 7941,
+              "lmtime": 1563793622248,
+              "modified": true
+            },
+            "js": {
+              "jquery-3.4.1.min.js": {
+                "type": "-",
+                "size": 88145,
+                "lmtime": 0,
+                "modified": false
+              },
+              "main.js": {
+                "type": "-",
+                "size": 2786,
+                "lmtime": 0,
+                "modified": false
+              },
+              "slider — копия.js": {
+                "type": "-",
+                "size": 14737,
+                "lmtime": 1563183023000,
+                "modified": false
+              },
+              "slider.js": {
+                "type": "-",
+                "size": 16326,
+                "lmtime": 1563552039437,
+                "modified": false
+              }
+            },
+            "trips.jpg": {
+              "type": "-",
+              "size": 859577,
+              "lmtime": 0,
+              "modified": false
+            },
+            "trips.php": {
+              "type": "-",
+              "size": 2397,
+              "lmtime": 1563796095506,
+              "modified": true
+            },
+            "шаблон.jpg": {
+              "type": "-",
+              "size": 722154,
+              "lmtime": 0,
+              "modified": false
+            }
+          },
+          "offer": {},
+          "oop-lp": {
+            "components": {
+              "footer.php": {
+                "type": "-",
+                "size": 2730,
+                "lmtime": 1564570896211,
+                "modified": true
+              },
+              "header.php": {
+                "type": "-",
+                "size": 2751,
+                "lmtime": 1565708117321,
+                "modified": false
+              }
+            },
+            "contacts.php": {
+              "type": "-",
+              "size": 6534,
+              "lmtime": 1564406577576,
+              "modified": true
+            },
+            "css": {
+              "slider.css": {
+                "type": "-",
+                "size": 2356,
+                "lmtime": 1563777573346,
+                "modified": false
+              },
+              "style.css": {
+                "type": "-",
+                "size": 14685,
+                "lmtime": 1565708336114,
+                "modified": false
+              }
+            },
+            "form.php": {
+              "type": "-",
+              "size": 669,
+              "lmtime": 1564496131643,
+              "modified": true
+            },
+            "global_pass.php": {
+              "type": "-",
+              "size": 532,
+              "lmtime": 1564733844421,
+              "modified": false
+            },
+            "img": {
+              "arrow.png": {
+                "type": "-",
+                "size": 1815,
+                "lmtime": 1563014481000,
+                "modified": false
+              },
+              "back1.jpg": {
+                "type": "-",
+                "size": 156717,
+                "lmtime": 1522577944040,
+                "modified": false
+              },
+              "back2.jpg": {
+                "type": "-",
+                "size": 150010,
+                "lmtime": 1563864749414,
+                "modified": false
+              },
+              "back2.jpg.crdownload": {
+                "type": "-",
+                "size": 149944,
+                "lmtime": 1563864638829,
+                "modified": false
+              },
+              "back3.jpg": {
+                "type": "-",
+                "size": 96979,
+                "lmtime": 1563864778766,
+                "modified": false
+              },
+              "back3.jpg.crdownload": {
+                "type": "-",
+                "size": 484892,
+                "lmtime": 1563864707851,
+                "modified": false
+              },
+              "computer.png": {
+                "type": "-",
+                "size": 7612,
+                "lmtime": 1522578867100,
+                "modified": false
+              },
+              "laptop.png": {
+                "type": "-",
+                "size": 7103,
+                "lmtime": 1522578975081,
+                "modified": false
+              },
+              "mail.png": {
+                "type": "-",
+                "size": 13117,
+                "lmtime": 1522580855308,
+                "modified": false
+              },
+              "networking.png": {
+                "type": "-",
+                "size": 12452,
+                "lmtime": 1522578893814,
+                "modified": false
+              },
+              "networking2.png": {
+                "type": "-",
+                "size": 12041,
+                "lmtime": 1522578943940,
+                "modified": false
+              },
+              "news1.jpg": {
+                "type": "-",
+                "size": 16479,
+                "lmtime": 1522579887365,
+                "modified": false
+              },
+              "news2.jpg": {
+                "type": "-",
+                "size": 18950,
+                "lmtime": 1522579908342,
+                "modified": false
+              },
+              "placeholder.png": {
+                "type": "-",
+                "size": 14378,
+                "lmtime": 1522580819112,
+                "modified": false
+              },
+              "settings.png": {
+                "type": "-",
+                "size": 19361,
+                "lmtime": 1522578920678,
+                "modified": false
+              },
+              "site1.jpg": {
+                "type": "-",
+                "size": 33481,
+                "lmtime": 1522579374805,
+                "modified": false
+              },
+              "site2.jpg": {
+                "type": "-",
+                "size": 15640,
+                "lmtime": 1522579392213,
+                "modified": false
+              },
+              "site3.jpg": {
+                "type": "-",
+                "size": 20126,
+                "lmtime": 1522579407274,
+                "modified": false
+              },
+              "startup.png": {
+                "type": "-",
+                "size": 10581,
+                "lmtime": 1522578999549,
+                "modified": false
+              },
+              "telephone.png": {
+                "type": "-",
+                "size": 5812,
+                "lmtime": 1522580840594,
+                "modified": false
+              },
+              "web.png": {
+                "type": "-",
+                "size": 32069,
+                "lmtime": 1522577473853,
+                "modified": false
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 5397,
+              "lmtime": 1564570792791,
+              "modified": true
+            },
+            "js": {
+              "jquery-3.4.1.min.js": {
+                "type": "-",
+                "size": 88145,
+                "lmtime": 1562076629023,
+                "modified": false
+              },
+              "main.js": {
+                "type": "-",
+                "size": 2857,
+                "lmtime": 1562151363194,
+                "modified": false
+              },
+              "slider.js": {
+                "type": "-",
+                "size": 16326,
+                "lmtime": 1563552039437,
+                "modified": false
+              }
+            },
+            "project-2.jpg": {
+              "type": "-",
+              "size": 676165,
+              "lmtime": 1542366920825,
+              "modified": false
+            },
+            "system": {
+              "classes": {
+                "Contacts.php": {
+                  "type": "-",
+                  "size": 98,
+                  "lmtime": 1564562150931,
+                  "modified": true
+                },
+                "Facts.php": {
+                  "type": "-",
+                  "size": 87,
+                  "lmtime": 1564562107261,
+                  "modified": true
+                },
+                "Goods.php": {
+                  "type": "-",
+                  "size": 87,
+                  "lmtime": 1564562129507,
+                  "modified": true
+                },
+                "Leads.php": {
+                  "type": "-",
+                  "size": 87,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "Logo.php": {
+                  "type": "-",
+                  "size": 91,
+                  "lmtime": 1564562172031,
+                  "modified": true
+                },
+                "News.php": {
+                  "type": "-",
+                  "size": 90,
+                  "lmtime": 1564562202036,
+                  "modified": true
+                },
+                "Pages.php": {
+                  "type": "-",
+                  "size": 92,
+                  "lmtime": 1564562247568,
+                  "modified": true
+                },
+                "Portfolio.php": {
+                  "type": "-",
+                  "size": 100,
+                  "lmtime": 1564562240629,
+                  "modified": true
+                },
+                "Unit.php": {
+                  "type": "-",
+                  "size": 1982,
+                  "lmtime": 1564734529843,
+                  "modified": false
+                },
+                "autoload.php": {
+                  "type": "-",
+                  "size": 244,
+                  "lmtime": 1564561135667,
+                  "modified": true
+                }
+              },
+              "controllers": {}
+            },
+            "trips.php": {
+              "type": "-",
+              "size": 2216,
+              "lmtime": 1564495343212,
+              "modified": true
+            }
+          },
+          "Новая папка": {},
+          "files": {}
+        },
+        "sql.html": {
+          "type": "-",
+          "size": 656,
+          "lmtime": 1566484763094,
+          "modified": false
+        },
+        "sql.php": {
+          "type": "-",
+          "size": 1036,
+          "lmtime": 1566485976869,
+          "modified": false
+        }
+      }
+    }
+  },
+  "$version": 1
+}
