@@ -1,7 +1,7 @@
 
 <?php
 
-define('TOKEN', '918252752:AAH-QXnFOsFAdfYvSrRMXxrMZ3oEeKB_idY');
+define('TOKEN', '');
 define('URL', 'https://api.telegram.org/bot'.TOKEN.'/');
 
 $tmp = file_get_contents("php://input");
