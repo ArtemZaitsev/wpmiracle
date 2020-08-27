@@ -12,10 +12,10 @@
     ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
 
-    $DB_HOST = 'localhost';
-    $DB_USER = 'u0741356_learn' ;
-    $DB_PASS = '4JSu_zto';
-    $DB_NAME = 'u0741356_learning';
+    $DB_HOST = '';
+    $DB_USER = '' ;
+    $DB_PASS = '';
+    $DB_NAME = '';
 
     $link = mysqli_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
     mysqli_set_charset($link, "utf8");
